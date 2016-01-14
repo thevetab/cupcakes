@@ -26,3 +26,15 @@ h3{
 h2{
   text-align: center;
 }
+
+.cool{
+  font-style: italic;
+}
+
+.boring{
+  font-weight: bold;
+}
+
+.swanky{
+font-variant: small-caps;
+}
